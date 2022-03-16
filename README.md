@@ -29,7 +29,7 @@ Folgende Funktionen haben wir bis Projektende umgesetzt:
 [PflaMoeHus-Backend](https://github.com/marie-scharhag/PflaMoeHus-Backend)
 
 ## Demo Video
-[Demo Video](https://youtu.be/ymXHFMnSj0Q)
+[Demo Video](https://youtu.be/ymXHFMnSj0Q) auf YouTube
 
 ## How to setup
 
